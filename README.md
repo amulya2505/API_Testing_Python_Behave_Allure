@@ -23,3 +23,6 @@ behave -f allure  -o reports -f pretty --define env=prod
 
 **#For reports**
 allure serve reports        
+
+**#OR** 
+We can also use "pip install requirements.txt"
