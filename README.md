@@ -1,25 +1,25 @@
 # API_Testing_Python_Behave_Allure
 
-I am using MAC , following instructions might be helpful for mac
+#I am using MAC , following instructions might be helpful for mac
 
-Install Python first
+#Install Python first
 brew install python3
 
-(Latest stable version preferred.)
+#(Latest stable version preferred.)
 
-To install PIP  --
+#To install PIP  --
 brew install pip
 
 
-Install behave --
+#Install behave --
 pip install behave
 
 
 brew install allure
 
 
-To run with behave --
+#To run with behave --
 behave -f allure  -o reports -f pretty --define env=prod 
 
-For reports
+#For reports
 allure serve reports        
