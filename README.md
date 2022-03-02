@@ -7,14 +7,17 @@ I am using MAC , following instructions might be helpful for mac
 3. (Latest stable version preferred.) <br>
 
 ### To install PIP ###
-Run `brew install pip` <br>
+1.Run `brew install pip` <br>
+2. check version by running `pip --version` <br>
 
 
 ### Install behave ###
-Run `pip install behave` <br>
+1.Run `pip install behave` <br>
+2. check version by running `behave --version` <br>
 
 ### for reporting, Install allure ###
-`brew install allure` <br>
+1.`brew install allure` <br>
+2. check version by running `allure --version` <br>
 
 
 ### To run your tests with behave ###
